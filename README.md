@@ -1,2 +1,3 @@
-# Bottles-of-Jooce
-It's LOLCODE. Now if you'll excuse me, I need to repair my brain cells XD.
+# ~~99~~ 999 Bottles of Jooce
+
+It’s LOLCODE, and my brain hurts now so I’m just gonna leave you at that. Run the program and be *”amazed”*.
